@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/web/viewCart.jsp</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/web/login.html</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/controller/UserController.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/controller/CheckOutServlet.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/cart/CartObject.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/Product/ProductDAO.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/controller/AddToCartServlet.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/properties/function.properties</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/web/market.jsp</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/controller/ViewCartServlet.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/web/user.jsp</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/Product/ProductDTO.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/src/java/chinhmt/filter/FilterDispatcher.java</file>
+            <file>file:/D:/STUDY/CN5/PRJ321/MaiTanChinh_SE130622/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>

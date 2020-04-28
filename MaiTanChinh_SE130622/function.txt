@@ -1,0 +1,3 @@
+login=LoginServlet
+invalid=invalid.html
+search=SearchServlet
